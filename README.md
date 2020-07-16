@@ -35,13 +35,24 @@ emacs' and if you using emacs-doom for app stop and ise it
 
 ~/.doom.d/ it generaly file and if you change performance doing doom sync and try emacs
 
-and if you emacs useing for WM
+and if you emacs using for WM
 
 M-x package-install RET exwm
 
 SPC f f ~/.doom.d/config.el
 
 SPC f U
+
+read and/or copy https://github.com/richkirl/emacsdoommyconfigure/blob/master/config.el
+
+xrandr (for you X Screen: and port for ~/.doom.d/config.el)
+
+SPC f f ~/usr/share/xsessions/emacs.desktop
+
+SPC f U
+
+
+
 
 
 
