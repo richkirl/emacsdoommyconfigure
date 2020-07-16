@@ -4,7 +4,7 @@
 ;; sync' after modifying this file!                           
 
 
-sectiom for exwm
+section for exwm
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (require 'exwm)
 (require 'exwm-config)
