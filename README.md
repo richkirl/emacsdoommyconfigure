@@ -17,10 +17,6 @@ rm-rf .emacs.d
 
 install fd ripgrep 
 
-bookmark this https://gist.github.com/hjertnes/9e14416e8962ff5f03c6b9871945b165
-
-read this https://github.com/hlissner/doom-emacs
-
 git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.emacs.d
 
 ~/.emacs.d/bin/doom install
@@ -69,4 +65,15 @@ doom sync
 
 sudo reboot or restart X server and you see new session
 
+#########################################################################################################
+
+for info https://www.gnu.org/software/emacs/
+
+bookmark this https://gist.github.com/hjertnes/9e14416e8962ff5f03c6b9871945b165
+
+read this https://github.com/hlissner/doom-emacs
+
+for vanilla emacs https://www.youtube.com/watch?v=HTUE03LnaXA&t=1s
+
+for how to https://www.youtube.com/watch?v=MquoGuU8sHM&t
 
