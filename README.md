@@ -47,6 +47,7 @@ SPC f f ~/usr/share/xsessions/emacs.desktop
 
 SPC f U
 
+
 [Desktop Entry]
 
 Name=EmacsWM
@@ -60,6 +61,8 @@ TryExec=emacs
 Icon=
 
 Type=Application
+
+
 
 C-x k killbufer ~/.doom.d/config.el
 
