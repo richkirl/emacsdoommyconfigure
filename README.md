@@ -51,8 +51,22 @@ SPC f f ~/usr/share/xsessions/emacs.desktop
 
 SPC f U
 
+[Desktop Entry]
+Name=EmacsWM
+Comment=Emacs Window Manager
+Exec=/etc/X11/Sessions/emacs
+TryExec=emacs
+Icon=
+Type=Application
 
+C-x k killbufer ~/.doom.d/config.el
 
+C-x k killbufer ~/usr/share/xsessions/emacs.desktop
 
+SPC q q 
+
+doom sync
+
+sudo reboot or restart X server and you see new session
 
 
